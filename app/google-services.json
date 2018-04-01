@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "817326685998",
+    "firebase_url": "https://modul6-1a1fa.firebaseio.com",
+    "project_id": "modul6-1a1fa",
+    "storage_bucket": "modul6-1a1fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817326685998:android:e01a6f510ca486cc",
+        "android_client_info": {
+          "package_name": "id.odt.POLTAK_1202154218_MODUL6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817326685998-95pq3ka1algfj3is1ishk0j60accj1dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.odt.POLTAK_1202154218_MODUL6",
+            "certificate_hash": "c8a6ca20b5d831a77153e55d3512f80392227d20"
+          }
+        },
+        {
+          "client_id": "817326685998-onnp7r4cdrlk9u2i9obf773f264eo80d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMJ0A6xQnWsr0WM0rx0mKL15Z1MDhGn5g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817326685998-onnp7r4cdrlk9u2i9obf773f264eo80d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
